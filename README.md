@@ -1,5 +1,7 @@
 # 💫 Hi 👋, I'm Ashish Singh
-**A passionate Software Developer || Founder of TagdaCoder Infotech || Owner Of PlayXera**
+**A passionate Full Stack Developer || Founder of TagdaCoder Infotech || Owner Of PlayXera**
+
+Building high-performance websites, applications, and automation systems that help businesses operate smarter and scale faster. Focused on delivering reliable, efficient, and production-ready solutions with a strong emphasis on functionality and real-world impact.
 
 Email Me 👉 ✉️ **ashish@tagdacoder.in** For Collaboration/Project or Anything Else. 😊😊
 
